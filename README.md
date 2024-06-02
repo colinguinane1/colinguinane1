@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Fast-Food-App](https://github.com/colinguinane1/fast-food-app)
 
-- 🌱 I’m currently learning **Next.JS, Node.JS, Firebase, Tailwind CSS, Typescript.**
+- 🌱 I’m currently learning **Node.JS, AWS S3.**
 
 - 👨‍💻 All of my projects are available at [https://colinguinane.com](https://colinguinane.com)
 
