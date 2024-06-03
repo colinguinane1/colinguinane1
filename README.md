@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Colin Guinane</h1>
+<h1 align="center">Hi 👋, I'm Colin </h1>
 <h3 align="center">A passionate full-stack developer from Ireland, living in Canada</h3>
 
 - 🔭 I’m currently working on [Fast-Food-App](https://github.com/colinguinane1/fast-food-app)
 
 - 🌱 I’m currently learning **Node.JS, AWS S3.**
 
-- 👨‍💻 All of my projects are available at [https://colinguinane.com](https://colinguinane.com)
+- 👨‍💻 All of my projects are available at [https://www.colin-g.me](https://colin-g.me)
 
 - 📫 How to reach me **collab.colin@gmail.com**
 
