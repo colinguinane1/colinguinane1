@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Node.JS, AWS S3.**
 
-- 👨‍💻 All of my projects are available at [https://www.colin-g.me](https://colin-g.me)
+- 👨‍💻 All of my projects are available at [https://www.c-g.dev](https://c-g.dev)
 
-- 📫 How to reach me **collab.colin@gmail.com**
+- 📫 How to reach me **colin@c-g.dev**
 
 - ⚡ Fun fact **I'm only lazy when I'm not interested.**
 
