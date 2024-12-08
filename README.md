@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Colin </h1>
+<h1 align="center">Hi, I'm Colin </h1>
 <h3 align="center">A passionate full-stack developer from Ireland, living in Canada</h3>
 
-- 🔭 I’m currently working on [Fast-Food-App](https://github.com/colinguinane1/fast-food-app)
-
-- 🌱 I’m currently learning **Node.JS, AWS S3.**
+- 🔭 I’m currently working on [Numbers Game](https://github.com/colinguinane1/num-game-front-end)
 
 - 👨‍💻 All of my projects are available at [https://www.c-g.dev](https://c-g.dev)
 
 - 📫 How to reach me **colin@c-g.dev**
-
-- ⚡ Fun fact **I'm only lazy when I'm not interested.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
