@@ -27,6 +27,11 @@ I'm a full stack developer from Ireland based in Canada.
  - [Minimal Portfolio](https://c-g.dev)
 
 
+## Stats
+
+[![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=colinguinane1)](https://github.com/colinguinane1/github-readme-stats)
+
+
 ## Contact
 
 If you have any questions, please reach out to me at colin@c-g.dev
