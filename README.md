@@ -22,8 +22,8 @@ I'm a full stack developer from Ireland based in Canada.
 
 ## Current Projects
 
- - [Numbers Game (Front-end)](https://github.com/colinguinane1/num-game-front-end)
- - [Numbers Game (Back-end)](https://github.com/colinguinane1/num_game_back-end)
+ - [Guessr (Front-end)]((https://github.com/colinguinane1/Guessr-Front-End))
+ - [Guessr (Back-end)]((https://github.com/colinguinane1/Guessr-Back-End))
  - [Minimal Portfolio](https://c-g.dev)
 
 
