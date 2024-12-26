@@ -22,8 +22,8 @@ I'm a full stack developer from Ireland based in Canada.
 
 ## Current Projects
 
- - [Guessr (Front-end)]((https://github.com/colinguinane1/Guessr-Front-End))
- - [Guessr (Back-end)]((https://github.com/colinguinane1/Guessr-Back-End))
+ - [Guessr (Front-end)](([https://github.com/colinguinane1/Guessr-Front-End]))
+ - [Guessr (Back-end)](([https://github.com/colinguinane1/Guessr-Back-End]))
  - [Minimal Portfolio](https://c-g.dev)
 
 
