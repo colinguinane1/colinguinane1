@@ -10,7 +10,7 @@ I'm a full stack developer from Ireland based in Canada.
 
 ## What im working on
 
- - [minamail](https://minamail.app)
+[minamail](https://minamail.app)
 
 ## Contact
 
