@@ -7,11 +7,10 @@ I'm a full stack developer from Ireland based in Canada.
 
 [linkedin](https://www.linkedin.com/in/colinguinaneca/)
 
-## Current Projects
+## Stuff im doing
 
- - [Minamail)](https://minamail.app)
- - [Minimal Portfolio](https://c-g.dev)
- - 
+ - [minamail](https://minamail.app)
+ - [portfolio](https://c-g.dev)
 
 ## Contact
 
